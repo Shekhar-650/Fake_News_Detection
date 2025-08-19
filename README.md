@@ -7,5 +7,5 @@ This project aims to detect and classify fake news articles using semantic text 
 --------------------
 ### Objective
 
-. Build a semantic classification model using Word2Vec and supervised learning techniques.
-. Classify news articles as either true or fake based on their textual meaning, not just syntax.
+* Build a semantic classification model using Word2Vec and supervised learning techniques.
+* Classify news articles as either true or fake based on their textual meaning, not just syntax.
